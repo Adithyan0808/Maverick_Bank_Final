@@ -1,0 +1,562 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\tokenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\tokenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\transactiontypeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\transactiontypeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\transactiontypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\transactiontypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\transactionservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\transactionservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\loanservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\loanservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\branchservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\branchservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\customerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\customerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\employeeregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\employeeregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\customerregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\customerregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\employeeregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\employeeregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\customerregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\customerregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\adminservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\adminservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbanktest\\servicetest\\adminregistrationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC37D-BFF8-4018-B213-3622DAE83D86}|MaverickBankTest\\MaverickBankTest.csproj|solutionrelative:maverickbanktest\\servicetest\\adminregistrationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\adminregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\adminregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\services\\accounttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\services\\accounttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|c:\\users\\radit\\downloads\\maverickbanksolution (9) (1)\\maverickbank\\exceptions\\invalidtransactionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529879A1-BFBE-4C63-B441-E57E68C6C8B6}|MaverickBank\\MaverickBank.csproj|solutionrelative:maverickbank\\exceptions\\invalidtransactionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 124,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionTypeServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\TransactionTypeServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\TransactionTypeServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\TransactionTypeServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\TransactionTypeServiceTest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:20:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\TransactionTypeService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\TransactionTypeService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\TransactionTypeService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\TransactionTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:19:07.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\TokenServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\TokenServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\TokenServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\TokenServiceTest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:58:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\TokenService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:57:31.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\LoanServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\LoanServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\LoanServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\LoanServiceTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:54:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\LoanService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\LoanService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:54:14.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\EmployeeServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\EmployeeServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\EmployeeServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\EmployeeServiceTest.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:47:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:46:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\CustomerService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:35:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\CustomerRegistrationService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\CustomerRegistrationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\CustomerRegistrationService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\CustomerRegistrationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:35:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\EmployeeRegistrationService.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\EmployeeRegistrationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\EmployeeRegistrationService.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\EmployeeRegistrationService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:35:33.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\CustomerServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\CustomerServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\CustomerServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\CustomerServiceTest.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:35:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\CustomerRegistrationService.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\CustomerRegistrationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\CustomerRegistrationService.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\CustomerRegistrationService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:35:00.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BranchServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\BranchServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\BranchServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\BranchServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\BranchServiceTest.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:34:37.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\BranchService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\BranchService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\BranchService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\BranchService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:34:22.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\AuthenticationService.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:31:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:29:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\AdminServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\AdminServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\AdminServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\AdminServiceTest.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:26:08.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "MaverickBank\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:33:50.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "MaverickBank\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:33:44.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AdminService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\AdminService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:33:37.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminRegistrationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\AdminRegistrationServiceTests.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\AdminRegistrationServiceTests.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\AdminRegistrationServiceTests.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\AdminRegistrationServiceTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA3wDkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:25:57.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AdminRegistrationService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\AdminRegistrationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AdminRegistrationService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\AdminRegistrationService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:01:42.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "MaverickBank\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:19:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InvalidTransactionException.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Exceptions\\InvalidTransactionException.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Exceptions\\InvalidTransactionException.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Exceptions\\InvalidTransactionException.cs",
+              "RelativeToolTip": "MaverickBank\\Exceptions\\InvalidTransactionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:07:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\EmployeeRegistrationService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\EmployeeRegistrationService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\EmployeeRegistrationService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\EmployeeRegistrationService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:00:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AccountTypeService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\AccountTypeService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\AccountTypeService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\AccountTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:59:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\TransactionServiceTest.cs",
+              "RelativeDocumentMoniker": "MaverickBankTest\\ServiceTest\\TransactionServiceTest.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBankTest\\ServiceTest\\TransactionServiceTest.cs",
+              "RelativeToolTip": "MaverickBankTest\\ServiceTest\\TransactionServiceTest.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:51:01.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Services\\TransactionService.cs",
+              "RelativeToolTip": "MaverickBank\\Services\\TransactionService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:49:47.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Exceptions\\InsufficientBalanceException.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "MaverickBank\\Exceptions\\InsufficientBalanceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:49:36.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "MaverickBank\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\radit\\Downloads\\MaverickBankSolution (9) (1)\\MaverickBank\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "MaverickBank\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:49:32.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

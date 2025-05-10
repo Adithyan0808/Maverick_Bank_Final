@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MaverickBank",
+    "\\MaverickBankTest",
+    "\\MaverickBankTest\\obj",
+    "\\MaverickBankTest\\ServiceTest",
+    "\\MaverickBank\\Misc"
+  ],
+  "SelectedNode": "\\MaverickBankTest\\ServiceTest\\AuthenticationService.cs",
+  "PreviewInSolutionExplorer": false
+}

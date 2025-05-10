@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaverickBank", "MaverickBank\MaverickBank.csproj", "{529879A1-BFBE-4C63-B441-E57E68C6C8B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaverickBankTest", "MaverickBankTest\MaverickBankTest.csproj", "{40BEC37D-BFF8-4018-B213-3622DAE83D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529879A1-BFBE-4C63-B441-E57E68C6C8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529879A1-BFBE-4C63-B441-E57E68C6C8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529879A1-BFBE-4C63-B441-E57E68C6C8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529879A1-BFBE-4C63-B441-E57E68C6C8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BEC37D-BFF8-4018-B213-3622DAE83D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BEC37D-BFF8-4018-B213-3622DAE83D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BEC37D-BFF8-4018-B213-3622DAE83D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BEC37D-BFF8-4018-B213-3622DAE83D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D668E21D-7D77-407D-B133-232E17AF6CA0}
+	EndGlobalSection
+EndGlobal
